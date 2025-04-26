@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Apr 17 10:37:56 2024
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : eth_udp_loop
+Top-level Entity Name : eth_udp_loop
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 3,129 / 10,320 ( 30 % )
+    Total combinational functions : 2,686 / 10,320 ( 26 % )
+    Dedicated logic registers : 1,659 / 10,320 ( 16 % )
+Total registers : 1671
+Total pins : 14 / 180 ( 8 % )
+Total virtual pins : 0
+Total memory bits : 16,384 / 423,936 ( 4 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )

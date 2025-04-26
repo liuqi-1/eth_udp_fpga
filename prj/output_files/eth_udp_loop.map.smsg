@@ -1,0 +1,17 @@
+Info (10281): Verilog HDL Declaration information at eth_udp_loop.v(41): object "DES_MAC" differs only in case from object "des_mac" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/eth_udp_loop.v Line: 41
+Info (10281): Verilog HDL Declaration information at eth_udp_loop.v(43): object "DES_IP" differs only in case from object "des_ip" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/eth_udp_loop.v Line: 43
+Info (10281): Verilog HDL Declaration information at udp_tx.v(30): object "des_mac" differs only in case from object "DES_MAC" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/udp/udp_tx.v Line: 30
+Info (10281): Verilog HDL Declaration information at udp_tx.v(31): object "des_ip" differs only in case from object "DES_IP" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/udp/udp_tx.v Line: 31
+Info (10281): Verilog HDL Declaration information at udp_rx.v(49): object "ETH_TYPE" differs only in case from object "eth_type" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/udp/udp_rx.v Line: 49
+Info (10281): Verilog HDL Declaration information at udp.v(40): object "des_mac" differs only in case from object "DES_MAC" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/udp/udp.v Line: 40
+Info (10281): Verilog HDL Declaration information at udp.v(41): object "des_ip" differs only in case from object "DES_IP" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/udp/udp.v Line: 41
+Info (10281): Verilog HDL Declaration information at icmp_tx.v(33): object "des_mac" differs only in case from object "DES_MAC" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/icmp/icmp_tx.v Line: 33
+Info (10281): Verilog HDL Declaration information at icmp_tx.v(34): object "des_ip" differs only in case from object "DES_IP" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/icmp/icmp_tx.v Line: 34
+Info (10281): Verilog HDL Declaration information at icmp_rx.v(56): object "ETH_TYPE" differs only in case from object "eth_type" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/icmp/icmp_rx.v Line: 56
+Info (10281): Verilog HDL Declaration information at icmp_rx.v(57): object "ICMP_TYPE" differs only in case from object "icmp_type" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/icmp/icmp_rx.v Line: 57
+Info (10281): Verilog HDL Declaration information at icmp.v(40): object "des_mac" differs only in case from object "DES_MAC" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/icmp/icmp.v Line: 40
+Info (10281): Verilog HDL Declaration information at icmp.v(41): object "des_ip" differs only in case from object "DES_IP" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/icmp/icmp.v Line: 41
+Info (10281): Verilog HDL Declaration information at arp_tx.v(29): object "des_mac" differs only in case from object "DES_MAC" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/arp/arp_tx.v Line: 29
+Info (10281): Verilog HDL Declaration information at arp_tx.v(30): object "des_ip" differs only in case from object "DES_IP" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/arp/arp_tx.v Line: 30
+Info (10281): Verilog HDL Declaration information at arp.v(40): object "des_mac" differs only in case from object "DES_MAC" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/arp/arp.v Line: 40
+Info (10281): Verilog HDL Declaration information at arp.v(41): object "des_ip" differs only in case from object "DES_IP" in the same scope File: D:/ywdktz/eth_dup_loop/rtl/arp/arp.v Line: 41
